@@ -2,8 +2,10 @@
 
 ## 🎧 Recently Played
 
+
 <p align="center">
-  <img src="https://spotify-recently-played-readme.vercel.app/api?user=316ghzudk2bbebpyk7jurqcrhvdu" alt="Recently Played Spotify" />
+  <img src="https://spotify-github-profile.vercel.app/api/view?uid=316ghzudk2bbebpyk7jurqcrhvdu&cover_image=true&theme=novatorem" alt="Spotify Recently Played" />
 </p>
+
 
  ✧˚♡
